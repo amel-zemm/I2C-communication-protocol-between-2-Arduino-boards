@@ -1,5 +1,4 @@
-# I2C-communication-protocol-between-2-Arduino-boards
-# I2C Communication for Automatic Barrier System ( Gate Guru)
+# I2C-communication-protocol-between-2-Arduino-boards (for Automatic Barrier System ( Gate Guru))
 
 ## Overview
 
