@@ -20,7 +20,7 @@ This project demonstrates the implementation of I2C communication between two Ar
 - Male-male wires
 
 ## Circuit Setup
-- Build the circuit as it showen in the picture ( you find it in the repository )
+- Build the circuit as it showen in the pdf ( you find it under the name : I2C_Arduino Project Stem)
 - for Connecting the Two Arduinos:
     - Upload the Code 1 in arduino 1
     - Upload Code 2 in Arduino 2
@@ -31,7 +31,7 @@ This project demonstrates the implementation of I2C communication between two Ar
 
 
 ## Circuit Diagram
-in the attached picture
+in the attached pdf (I2C_Arduino Project Stem)
 ## contribution
 Feel free to contribute to the project by submitting bug reports, feature requests, or improvements. Fork the repository, make your changes, and submit a pull request.
 
