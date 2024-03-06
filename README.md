@@ -32,7 +32,8 @@ This project demonstrates the implementation of I2C communication between two Ar
 
 
 ## Circuit Diagram
-
+in the attached picture
+## contribution
 Feel free to contribute to the project by submitting bug reports, feature requests, or improvements. Fork the repository, make your changes, and submit a pull request.
 
 ## License
